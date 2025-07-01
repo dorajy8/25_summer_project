@@ -4,9 +4,9 @@ Welcome to my 2025 summer programming projects! This repository contains a colle
 
 ## Table of Contents
 FizzBuzz Program
+Scrabble Board Game Program
 
-
-### FizzBuzz Program
+## FizzBuzz Program
 Description
 The classic FizzBuzz programming challenge! This program prints numbers from 1 to a specified limit (100 in my code), but with a twist:
 
@@ -15,3 +15,14 @@ The classic FizzBuzz programming challenge! This program prints numbers from 1 t
 **Buzz** - printed for numbers divisible by 5
 
 **FizzBuzz** - printed for numbers divisible by both 3 and 5
+
+## Scrabble Board Game Program
+This is a simple Python script that finds all valid Scrabble words that can be formed from a given set of letters. It first generates all possible permutations of the input letters and checks them against a local scrabble dictionary file to produce an alphabetized list of valid words in the Scrabble game. 
+
+In my program, I uses "tabind" as the given combinations of words. Of course, you can modify the my_letters variable inside the Python script to the set of letters you want to check.
+
+### Acknowledgments
+The words.txt file used in this project is a comprehensive dictionary of Scrabble words sourced from the scrabble repository on GitHub, maintained by user redbo.
+
+You can find the original repository and file here: github.com/redbo/scrabble
+
