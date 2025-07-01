@@ -17,9 +17,9 @@ The classic FizzBuzz programming challenge! This program prints numbers from 1 t
 **FizzBuzz** - printed for numbers divisible by both 3 and 5
 
 ## Scrabble Board Game Program
-This is a simple Python script that finds all valid Scrabble words that can be formed from a given set of letters. It first generates all possible permutations of the input letters and checks them against a local scrabble dictionary file to produce an alphabetized list of valid words in the Scrabble game. 
+This is a simple Python program with an interactive artifact that finds all valid Scrabble words that can be formed from a given set of letters. It first generates all possible permutations of the input letters and checks them against a local scrabble dictionary file to produce an alphabetized list of valid words in the Scrabble game. 
 
-In my program, I uses "tabind" as the given combinations of words. Of course, you can modify the my_letters variable inside the Python script to the set of letters you want to check.
+In my program, I uses "tabind" as the given combinations of words if one does not provide any word. Of course, you can modify the my_letters variable inside the Python script or type different words on the program to the set of letters you want to check.
 
 ### Acknowledgments
 The words.txt file used in this project is a comprehensive dictionary of Scrabble words sourced from the scrabble repository on GitHub, maintained by user redbo.
