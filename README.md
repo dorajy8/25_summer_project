@@ -11,5 +11,7 @@ Description
 The classic FizzBuzz programming challenge! This program prints numbers from 1 to a specified limit (100 in my code), but with a twist:
 
 **Fizz** - printed for numbers divisible by 3
+
 **Buzz** - printed for numbers divisible by 5
+
 **FizzBuzz** - printed for numbers divisible by both 3 and 5
