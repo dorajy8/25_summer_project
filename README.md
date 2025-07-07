@@ -4,7 +4,9 @@ Welcome to my 2025 summer programming projects! This repository contains a colle
 
 ## Table of Contents
 FizzBuzz Program
+
 Scrabble Word Finder Program
+
 4 Gallon Water Bucket Problem
 
 ## FizzBuzz Program
