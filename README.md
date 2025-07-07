@@ -5,6 +5,7 @@ Welcome to my 2025 summer programming projects! This repository contains a colle
 ## Table of Contents
 FizzBuzz Program
 Scrabble Word Finder Program
+4 Gallon Water Bucket Problem
 
 ## FizzBuzz Program
 Description
@@ -27,3 +28,13 @@ This is what the interactive artifact looks like:
 The words.txt file used in this project is a comprehensive dictionary of Scrabble words sourced from the scrabble repository on GitHub, maintained by user redbo.
 
 You can find the original repository and file here: github.com/redbo/scrabble
+
+## 4 Gallon Water Project
+Objective: 
+This program solves the classic water measurement problem where two kids need to 
+fetch exactly 4 gallons of water from a stream using only two unmarked buckets: 
+- One 5-gallon bucket (defined as bucket1 in the code)
+- One 3-gallon bucket (defined as bucket2 in the code)
+
+Specifically, I used Breadth-First Search (BFS) to find the optimal solution in 
+minimum steps and returns all possible solutions in less than 15 steps.
